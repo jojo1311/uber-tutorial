@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A50088F2422B62400F7D1C1 /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50088E2422B62400F7D1C1 /* SignUpController.swift */; };
 		3A83E41E241D9EE500DB9C6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A83E41D241D9EE500DB9C6F /* AppDelegate.swift */; };
 		3A83E420241D9EE500DB9C6F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A83E41F241D9EE500DB9C6F /* SceneDelegate.swift */; };
 		3A83E425241D9EE500DB9C6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A83E423241D9EE500DB9C6F /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A50088E2422B62400F7D1C1 /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
 		3A83E41A241D9EE500DB9C6F /* UBERTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UBERTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A83E41D241D9EE500DB9C6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A83E41F241D9EE500DB9C6F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				3A83E436241D9FF100DB9C6F /* LoginController.swift */,
+				3A50088E2422B62400F7D1C1 /* SignUpController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A50088F2422B62400F7D1C1 /* SignUpController.swift in Sources */,
 				3A83E41E241D9EE500DB9C6F /* AppDelegate.swift in Sources */,
 				3A83E437241D9FF100DB9C6F /* LoginController.swift in Sources */,
 				3A83E420241D9EE500DB9C6F /* SceneDelegate.swift in Sources */,
